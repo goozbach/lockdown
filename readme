@@ -1,1 +1,13 @@
 This is a lockdown test.
+
+to test:
+
+make this a home folder for a newly created user
+
+link /bin/bash to /bin/rbash -- maybe not needed
+
+chown the files root.<new user>
+
+login as the new user using su - or ssh.
+
+
