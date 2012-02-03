@@ -4,7 +4,9 @@ to test:
 
 make this a home folder for a newly created user
 
-link /bin/bash to /bin/rbash -- maybe not needed
+link /bin/bash to /bin/rbash
+
+make the login shell for your new user /bin/rbash
 
 chown the files root.<new user>
 
